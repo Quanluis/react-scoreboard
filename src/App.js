@@ -28,6 +28,9 @@ class App extends Component {
     return (
      <div>
        <h1>Scoreboard</h1>
+       <h2>Add player</h2>
+       <input type="text"/>
+       <button>Add</button>
        <div>
          Luis
        </div>
