@@ -6,7 +6,6 @@ class App extends Component {
     this.state = {
       init: 0
     }
-  
   }
   initialState(){
     return {
